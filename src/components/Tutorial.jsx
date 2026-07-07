@@ -670,7 +670,7 @@ const Tutorial = () => {
         <Col md={6}>
           <CodeMirror
             value="left 120"
-            height="150px"
+            height="400px"
             theme="dark"
             extensions={[python()]}
             editable={false}
@@ -703,7 +703,7 @@ const Tutorial = () => {
         <Col md={6}>
           <CodeMirror
             value="right 90"
-            height="150px"
+            height="400px"
             theme="dark"
             extensions={[python()]}
             editable={false}
@@ -1065,7 +1065,7 @@ const Tutorial = () => {
         <Col md={6}>
           <CodeMirror
             value="forward 100"
-            height="150px"
+            height="400px"
             theme="dark"
             extensions={[python()]}
             editable={false}
@@ -1097,7 +1097,7 @@ const Tutorial = () => {
         <Col md={6}>
           <CodeMirror
             value="backward 150"
-            height="150px"
+            height="400px"
             theme="dark"
             extensions={[python()]}
             editable={false}
