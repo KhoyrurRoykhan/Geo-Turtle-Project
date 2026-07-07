@@ -8,7 +8,7 @@ const PROJECTS = [
   {
     tag: 'GAME',
     glyph: 'wave',
-    title: 'Susur Sungai',
+    title: 'Susur Sungai Banjarmasin',
     desc: 'Game penjelajahan berbasis peta yang mengasah logika arah dan navigasi sambil menyusuri alur sungai.',
     href: 'https://susur-sungai-game.vercel.app/',
     previewUrl: 'https://susur-sungai-game.vercel.app/', // URL yang sama untuk iframe
