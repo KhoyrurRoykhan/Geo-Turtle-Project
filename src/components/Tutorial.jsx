@@ -1350,7 +1350,7 @@ const Tutorial = () => {
                     <pre style={{ border: '1px solid #000000', borderRadius: '8px', padding: '10px' }}>
                       <code>{`left 90\nforward 100`}</code>
                     </pre>
-                    <p>Jika awalnya Bidawang menghadap ke kanan, posisi bidawang setelah kode dijalankan adalah ...</p>
+                    <p>Jika awalnya Bidawang menghadap ke atas, posisi bidawang setelah kode dijalankan adalah ...</p>
                   </Form.Label>
 
                   <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap', justifyContent: 'center' }}>
